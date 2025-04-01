@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://your-solution-url.com)
+- Live Site URL: [Live site URL](https://investo-assignment.vercel.app/)
 
 ## My process
 
@@ -65,7 +65,7 @@ In future projects, I plan to focus on:
 
 ## Author
 
-- Website - [Akash Sigu]
+- Website - [Akash Singu]
 - Frontend Mentor - [@mildlybrutal](https://www.frontendmentor.io/profile/mildlybrutal)
 - Twitter - [@keepingIt100a](https://www.x.com/keepingIt100a)
 
