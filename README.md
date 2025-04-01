@@ -7,6 +7,7 @@ This is a solution to the [Interactive pricing component challenge on Frontend M
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Video](#video)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -28,6 +29,12 @@ Users should be able to:
 
 ![](./screenshotLight.png)
 ![](./screenshotDark.png)
+
+### Video
+
+
+
+https://github.com/user-attachments/assets/40495ded-26c5-4796-8ed3-dfab96e08745
 
 
 
