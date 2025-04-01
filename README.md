@@ -40,7 +40,6 @@ https://github.com/user-attachments/assets/40495ded-26c5-4796-8ed3-dfab96e08745
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
 - Live Site URL: [Live site URL](https://investo-assignment.vercel.app/)
 
 ## My process
